@@ -1,1 +1,1 @@
-# github.io
+# cosmonet.github.io
